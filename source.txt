@@ -1,0 +1,54 @@
+<div class="jk-uptodate">
+    <h2>最新课程</h2>
+    <ul>
+
+        <li class="uptodate">
+            <a href="/zhiye/course/216.html?type=57" target="_blank">
+                <img class="uptodate-img" src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20190603/a66df342-0de2-42ef-97f7-59baf80c3647.png" alt="">
+                <p class="uptodate-title">架构设计专项课程之异步化架构设计</p>
+                <p class="uptodate-info">
+                    高级
+                    <span>|</span>6门课
+
+                </p>
+            </a>
+        </li>
+
+        <li class="uptodate">
+            <a href="/zhiye/course/215.html?type=57" target="_blank">
+                <img class="uptodate-img" src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20190410/574bd3c5-ada3-424c-a01e-e0dbc5c8e8ec.jpeg" alt="">
+                <p class="uptodate-title">架构设计专项课程之页面静态化技术</p>
+                <p class="uptodate-info">
+                    高级
+                    <span>|</span>8门课
+
+                </p>
+            </a>
+        </li>
+
+        <li class="uptodate">
+            <a href="/zhiye/course/213.html?type=57" target="_blank">
+                <img class="uptodate-img" src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20190305/465454f3-fe4f-467d-a0fa-92790346f748.png" alt="">
+                <p class="uptodate-title">微博热门话题系统架构设计</p>
+                <p class="uptodate-info">
+                    高级
+                    <span>|</span>10门课
+
+                </p>
+            </a>
+        </li>
+
+        <li class="uptodate">
+            <a href="/zhiye/course/182.html?type=57" target="_blank">
+                <img class="uptodate-img" src="https://jiuye-res.jikexueyuan.com/zhiye/showcase/attach-/20190305/a7f094b8-cd4d-4708-9396-abf4d755b1d1.jpeg" alt="">
+                <p class="uptodate-title">从零开始学架构</p>
+                <p class="uptodate-info">
+                    高级
+                    <span>|</span>10门课
+
+                </p>
+            </a>
+        </li>
+
+    </ul>
+</div>
